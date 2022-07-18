@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:rsb="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Range seek bar initialized in code with ranges set"/>
+
+        <FrameLayout
+            android:id="@+id/seekbar_placeholder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"/>
+
+
+
+
+
+        <org.florescu.android.rangeseekbar.RangeSeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fadeScrollbars="true"
+            android:soundEffectsEnabled="true"
+            rsb:absoluteMaxValue="150"
+            rsb:absoluteMinValue="20"
+            android:scrollbarThumbHorizontal="@color/light_blue"
+            android:scrollbarTrackHorizontal="@color/orange"
+            rsb:singleThumb="true"
+            rsb:thumbNormal="@mipmap/ic_launcher"
+            rsb:alwaysActive="true"
+            rsb:activeColor="@color/light_blue"
+            rsb:valuesAboveThumbs="true"/>
+
+
+
+        <org.florescu.android.rangeseekbar.RangeSeekBar
+            android:id="@+id/rangeSeekBarTextColorWithCode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            rsb:absoluteMaxValue="150"
+            rsb:absoluteMinValue="20"
+            rsb:singleThumb="true"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marcin Czernek/.gradle/caches/transforms-3/02e0bd612fca2a22099e175f45d3c7d6/transformed/appcompat-1.4.1/res/layout/abc_activity_chooser_view.xml" value="0.153125" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/drawable-v24/alarm.xml" value="0.21" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/drawable-v24/background_edit.xml" value="0.262" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/drawable-v24/custom_slider_thumb.xml" value="0.231" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3675" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/drawable/custom_slider_thumb.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/activity_main_range.xml" value="0.6041979010494752" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/activity_message_notification.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/activity_player.xml" value="0.33" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/activity_recorder.xml" value="0.22" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/activity_reminder.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/activity_reminder_launch.xml" value="0.22" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/activity_select.xml" value="0.4" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/alarm.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/background_edit.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/notification_layout.xml" value="0.536" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/single_reminder_file.xml" value="0.4" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/layout/test_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
+        <entry key="..\:/Users/Marcin Czernek/AndroidStudioProjects/LearnEnglishApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.208" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

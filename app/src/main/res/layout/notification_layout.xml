@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/flashButton"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="24dp"
+        android:text="Snozz off"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/icon2"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:src="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="-2dp" />
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="655dp"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="75dp"></LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="81dp"
+        android:layout_height="77dp"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="-2dp">
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="90% Charging"
+            android:textColor="#000000"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="40dp"
+            android:text="Flashlight"
+            android:textColor="#000000"
+            android:textSize="13sp" />
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
